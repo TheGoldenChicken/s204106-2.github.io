@@ -1,0 +1,20 @@
+baseURL = "https://peterampazzo.github.io/project-website-template/"
+title = "Analysis of Reddit data regarding the 2022 Oscar slap"
+description = "This project analyses the network based on comments between redditors as well as the semantic analysis of their comments"
+relativeURLs = true
+theme = "theme" 
+[params]
+    authors = ["Christian Ole Nielsen", "Karl Meisner-Jensen", "Lauge Thode Hermansen"]
+    notebook = "/explainer-notebook.html"
+    data = "https://drive.google.com"
+    github = "https://github.com/peterampazzo/project-website-template"
+    [[params.nav]]
+        label = "Data"
+        link = "/data-description"
+    [[params.nav]]
+        label = "Network"
+        link = "/network-analysis"
+    [[params.nav]]
+        label = "Text"
+        link = "/text-analysis"
+
