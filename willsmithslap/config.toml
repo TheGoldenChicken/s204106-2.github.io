@@ -1,4 +1,4 @@
-baseURL = "https://thegoldenchicken.github.io/s204106-2.github.io/"
+baseURL = "https://TheGoldenChicken/s204106-2.github.io/"
 title = "Analysis of Reddit data regarding the 2022 Oscar slap"
 description = "This project analyses the network based on comments between redditors as well as the semantic analysis of their comments"
 relativeURLs = true
